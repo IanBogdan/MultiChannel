@@ -1,0 +1,33 @@
+[
+  {
+    "name": "Group 1",
+    "device_array": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "name": "Group 2",
+    "device_array": [
+      1,
+      3
+    ]
+  },
+  {
+    "name": "Group 3",
+    "device_array": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "name": "Group Marle",
+    "device_array": [
+      7,
+      8
+    ]
+  }
+]

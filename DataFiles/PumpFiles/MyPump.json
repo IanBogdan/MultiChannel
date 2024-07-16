@@ -1,0 +1,21 @@
+{
+  "ID": "MyPump",
+  "Platform": "Capillary",
+  "IEM": "C-HPG",
+  "Coating": "Acrylate",
+  "IEMGeometry": "Rectangular",
+  "Source": "NaCl",
+  "Solvent": "DMSO",
+  "TargetSolvent": "DI water",
+  "Target": "KCl",
+  "SourceConcentrationUnit": "mM",
+  "TargetConcentrationUnit": "mM",
+  "PolyConcentration": 2.0,
+  "CSDiam": 0.0,
+  "CSLen": 3.0,
+  "CSWidth": 1.0,
+  "Length": 3.0,
+  "SConc": 4.0,
+  "TConc": 3.0,
+  "NumChannels": 5.0
+}

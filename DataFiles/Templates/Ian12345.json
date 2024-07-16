@@ -1,0 +1,21 @@
+{
+  "ID": "Ian12345",
+  "Platform": "Capillary",
+  "IEM": "C-HPG",
+  "Coating": "Poly imide",
+  "IEMGeometry": "Circular",
+  "Source": "Gem",
+  "Solvent": "PBS",
+  "TargetSolvent": null,
+  "Target": "KCl",
+  "SourceConcentrationUnit": "μM",
+  "TargetConcentrationUnit": "pM",
+  "PolyConcentration": 0.33,
+  "CSDiam": 2.0,
+  "CSLen": 4.0003,
+  "CSWidth": 11.0,
+  "Length": 5.0,
+  "SConc": 9.0,
+  "TConc": 2.0,
+  "NumChannels": 1.0
+}

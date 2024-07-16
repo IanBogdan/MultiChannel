@@ -1,0 +1,18 @@
+{
+  "ID": "template1",
+  "Platform": "Capillary",
+  "IEM": "A-HPG",
+  "Coating": "Acrylate",
+  "IEMGeometry": "Rectangular",
+  "Source": "KCl",
+  "Solvent": "DI water",
+  "Target": "NaCl",
+  "PolyConcentration": 0.33,
+  "CSDiam": 3.0,
+  "CSLen": 0.0003,
+  "CSWidth": 0.00021,
+  "Length": 1.0,
+  "SConc": 4.0,
+  "TConc": 4.0,
+  "NumChannels": 0.0
+}
