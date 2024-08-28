@@ -1,0 +1,17 @@
+{
+  "Platform": "Capillary",
+  "IEM": "PSS-co-MA/PEG",
+  "Coating": "Acrylate",
+  "IEMGeometry": "Circular",
+  "Source": "KCl",
+  "Solvent": "DI water",
+  "Target": "NaCl",
+  "PolyConcentration": 2.33,
+  "CSDiam": 3.0,
+  "CSLen": 0.0,
+  "CSWidth": 0.0,
+  "Length": 2.0,
+  "SConc": 4.0,
+  "TConc": 4.0,
+  "NumChannels": 1.0
+}
