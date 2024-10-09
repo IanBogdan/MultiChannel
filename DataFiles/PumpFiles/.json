@@ -1,0 +1,21 @@
+{
+  "ID": "",
+  "Platform": "Capillary",
+  "IEM": "A-HPG",
+  "Coating": "Acrylate",
+  "IEMGeometry": "Circular",
+  "Source": "NaCl",
+  "Solvent": "DMSO",
+  "TargetSolvent": "DI water",
+  "Target": "NaCl",
+  "SourceConcentrationUnit": "mM",
+  "TargetConcentrationUnit": "mM",
+  "PolyConcentration": 0.0,
+  "CSDiam": 0.0,
+  "CSLen": 0.0,
+  "CSWidth": 0.0,
+  "Length": 0.0,
+  "SConc": 0.0,
+  "TConc": 0.0,
+  "NumChannels": 0.0
+}
