@@ -1,0 +1,22 @@
+{
+  "ID": "novi",
+  "Platform": "Unknown",
+  "IEM": "AMPSA/PEGDA",
+  "Coating": "Poly imide",
+  "IEMGeometry": "Rectangular",
+  "Source": "GABA",
+  "Solvent": "DI water",
+  "TargetSolvent": "DMSO",
+  "Target": "NaCl",
+  "SourceConcentrationUnit": "μM",
+  "TargetConcentrationUnit": "nM",
+  "PolyConcentration": 1.0,
+  "CSDiam": 5.0,
+  "CSLen": 4.0,
+  "CSWidth": 1.0,
+  "Length": 12.0,
+  "Thickness": 11.0,
+  "SConc": 5.0,
+  "TConc": 7.0,
+  "NumChannels": 3.0
+}
