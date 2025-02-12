@@ -1,0 +1,52 @@
+12.02.2025 16:39: started connecting
+
+
+Data tracker:
+Channel 1:
+	2 minutes - 0.13 nA, 1001 mV
+
+Channel 2:
+	2 minutes - 0.21 nA, 1001 mV
+
+Channel 3:
+	2 minutes - 0.00 nA, 999 mV
+
+Channel 4:
+	2 minutes - 1.14 nA, 999 mV
+
+Channel 5:
+	2 minutes - 0.41 nA, 1001 mV
+
+Channel 6:
+	2 minutes - 0.04 nA, 999 mV
+
+Channel 7:
+	2 minutes - 0.22 nA, 1000 mV
+
+Channel 8:
+	2 minutes - 0.00 nA, 1001 mV
+
+Channel 9:
+	2 minutes - 0.62 nA, 1001 mV
+
+Channel 10:
+	2 minutes - 0.84 nA, 1000 mV
+
+Channel 11:
+	2 minutes - 0.11 nA, 1001 mV
+
+Channel 12:
+	2 minutes - 0.20 nA, 1001 mV
+
+Channel 13:
+	2 minutes - 0.11 nA, 1001 mV
+
+Channel 14:
+	2 minutes - 0.99 nA, 1000 mV
+
+Channel 15:
+	2 minutes - 0.40 nA, 999 mV
+
+Channel 16:
+	2 minutes - 0.00 nA, 1001 mV
+
